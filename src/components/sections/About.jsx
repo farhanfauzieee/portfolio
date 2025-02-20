@@ -69,7 +69,7 @@ export const About = () => {
                         <h3 className="text-xl font-bold mb-4"> 📚 Education </h3>
                         <ul className="list-disc list-inside text-gray-300 space-y-2">
                             <li>
-                                <strong> Diploma in Science Computer </strong> - Kolej University Poly-Tech (MARA)
+                                <strong> Diploma in Computer Science </strong> <br/> Kolej University Poly-Tech Mara <br />
                                 (2019-2021)
                             </li>
                             <li>
@@ -80,6 +80,47 @@ export const About = () => {
                     </div>
                     <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 transition-all">
                         <h3 className="text-xl font-bold mb-4"> 💼 Work Experience </h3>
+                        <div className="space-y-4 text-gray-300">
+                            <div>
+                                <h4 className="font-semibold">
+                                    Software Developer at Mirfalah Technologies Sdn Bhd (2024 - Present)
+                                </h4>
+
+                                <p>
+                                    Contributed to the Aducktive e-commerce project, enhancing user experience and optimizing transactions.
+                                </p>
+                            </div>
+
+                            <div>
+                                <h4 className="font-semibold">
+                                    Web System Developer at Tarikemas Sdn Bhd (2023-2024)
+                                </h4>
+
+                                <p>
+                                    Worked on Orbit and N9Pay, primarily in backend development. Led a JAKIM project as a full-stack developer and technical lead.
+                                </p>
+                            </div>
+
+                            <div>
+                                <h4 className="font-semibold">  
+                                    Software Developer at Mikraj Digital Sdn Bhd (2022-2023)
+                                </h4>
+
+                                <p>
+                                    Developed the Presta system for performance tracking. Handled full-stack development, UI/UX design, and project collaboration.
+                                </p>
+                            </div>
+
+                            <div>
+                                <h4 className="font-semibold">
+                                    Software Developer at SWM Environment Sdn Bhd (2021 - Internship)
+                                </h4>
+
+                                <p>
+                                    Built an IT Asset Management System using HTML, PHP, and JavaScript. Extended internship for project completion.
+                                </p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
